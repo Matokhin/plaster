@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/Plasters/assets/app.js" => "16258847625461","/local/templates/Plasters/components/bitrix/menu/top_menu/script.js" => "1623106883407",]; ?>
